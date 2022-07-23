@@ -1,4 +1,4 @@
-const Greeter = artifacts.require(" Greeter ");
+const Greeter = artifacts.require("Greeter");
 
 module.exports = async function (deployer) {
 // deploy Greeter contract
